@@ -1,0 +1,8 @@
+{
+  "name": "helloword",
+  "app_id": "c2e4e715",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
