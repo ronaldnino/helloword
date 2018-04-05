@@ -2,49 +2,40 @@
 
 Demotración de una interfaz de autenticación construida con ionic framework consumientodo recursos restful.
 
-### Requisitos
+### Descripción del entorno de desarrollo
 
-Ionic 
+### Ionic 
+
     @ionic/cli-utils  : 1.19.2
     ionic (Ionic CLI) : 3.20.0
 
-global packages:
+### global packages
 
     cordova (Cordova CLI) : 8.0.0
 
-local packages:
+### local packages
 
     @ionic/app-scripts : 3.1.8
     Cordova Platforms  : android 7.0.0
     Ionic Framework    : ionic-angular 3.9.2
 
-System:
+### System
 
     Android SDK Tools : 26.1.1
     Node              : v6.11.1
     npm               : 3.10.10
     OS                : Linux 4.10
 
-Environment Variables:
-
-    ANDROID_HOME : /home/ronald/apps/SDKANDROID/
-
-Misc:
-
-    backend : pro
-
 ### Ejecución del proyecto
 
-git clone https://github.com/ronaldnino/helloword.git
-
-npm install 
-
-ionic serve
+    git clone https://github.com/ronaldnino/helloword.git
+    npm install 
+    ionic serve
 
 
 ## Ejecutando las pruebas
 
-En desarrollo.
+    En desarrollo.
 
 ## Capturas de Pantalla
 
