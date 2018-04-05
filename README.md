@@ -70,7 +70,14 @@ Give an example
 ```
 
 
-![myimage-alt-tag](http://www.bobpardue.com/wp-content/uploads/2013/09/teen-fashion-model.jpg)
+![myimage-alt-tag](https://firebasestorage.googleapis.com/v0/b/datos-a78c7.appspot.com/o/Practica%20Tecnica%2F01.png?alt=media&token=a22e00b4-0280-44f3-8fc0-5d448cfdca9b)
+
+
+![myimage-alt-tag](https://firebasestorage.googleapis.com/v0/b/datos-a78c7.appspot.com/o/Practica%20Tecnica%2F02.png?alt=media&token=9b1e5b68-0a53-4090-bfac-122b861c49e4)
+
+![myimage-alt-tag](https://firebasestorage.googleapis.com/v0/b/datos-a78c7.appspot.com/o/Practica%20Tecnica%2F03.png?alt=media&token=cabd5e54-cd58-4f66-8ca8-add6892618b9)
+
+![myimage-alt-tag](https://firebasestorage.googleapis.com/v0/b/datos-a78c7.appspot.com/o/Practica%20Tecnica%2F04.png?alt=media&token=4b4b14ba-7446-4769-9cd7-35d2f88f14a6)
 
 
 
