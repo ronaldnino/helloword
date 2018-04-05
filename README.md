@@ -1,6 +1,6 @@
 # Aplicación basica utilizando ionic
 
-Demotración de una interfaz de autenticación construida con ionic framework consumientodo recursos restful.
+Demotración de una interfaz de autenticación construida con ionic framework consumiendo recursos restful.
 
 ### Descripción del entorno de desarrollo
 
