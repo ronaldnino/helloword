@@ -1,15 +1,10 @@
-# Prueba Técnica
+# Aplicación basica utilizando ionic
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Demotración de una interfaz de autenticación construida con ionic framework consumientodo recursos restful.
 
 ### Requisitos
 
-cli packages: (/home/ronald/.nvm/versions/node/v6.11.1/lib/node_modules)
-
+Ionic 
     @ionic/cli-utils  : 1.19.2
     ionic (Ionic CLI) : 3.20.0
 
@@ -38,36 +33,18 @@ Misc:
 
     backend : pro
 
-```
-Give examples
-```
-
 ### Ejecución del proyecto
 
-git clone url
+git clone https://github.com/ronaldnino/helloword.git
 
 npm install 
 
 ionic serve
 
-```
-Give the example
-```
-
-And repeat
-
 
 ## Ejecutando las pruebas
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+En desarrollo.
 
 ## Capturas de Pantalla
 
