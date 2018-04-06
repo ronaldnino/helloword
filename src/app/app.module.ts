@@ -9,6 +9,7 @@ import { HomePage } from '../pages/home/home';
 import { LoginPage } from '../pages/login/login';
 import {Storage} from '../providers/storage';
 import {UserService} from '../providers/user-service';
+import {MessageService} from '../providers/message-utilities';
 
 import { HttpModule } from '@angular/http'
 
@@ -36,7 +37,8 @@ import { HttpModule } from '@angular/http'
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     Storage,
-    UserService
+    UserService,
+    MessageService
 
   ]
 })

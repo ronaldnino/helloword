@@ -5,12 +5,11 @@ import { Injectable } from '@angular/core';
 export class Storage  {
   public token: string;
   public apiUrl: string;
+  public data: any;
   
 
   constructor() {
-     this.token = '';
-     this.apiUrl = 'https://dev.tuten.cl/TutenREST/rest'
-     
+     this.apiUrl = 'https://dev.tuten.cl/TutenREST/rest';
   }
 
 

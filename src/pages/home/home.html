@@ -10,8 +10,11 @@
     </ion-buttons>
   </ion-navbar>
 </ion-header>
- 
 <ion-content class="home" padding>
-  <h3>Welcome inside, !</h3>
-  Your Email is: 
+  <h3>Bienvenido!</h3>
+  Tus datos son: <br/>
+  Nombre: {{this.storage.data.firstName}} <br/>
+  Apellido:{{this.storage.data.lastName}} <br/>
+  Correo:{{this.storage.data.email}} <br/>
+  Token:{{this.storage.data.sessionTokenWeb}} <br/>
 </ion-content>
